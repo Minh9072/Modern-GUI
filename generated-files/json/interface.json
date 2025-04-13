@@ -1,0 +1,126 @@
+{
+  "QPushButton": [
+    {
+      "name": "menuBtn",
+      "icon": "Qss/icons/icons/material_design/menu.png"
+    },
+    {
+      "name": "homeBtn",
+      "icon": "Qss/icons/icons/material_design/home.png"
+    },
+    {
+      "name": "dataAnalysisBtn",
+      "icon": "Qss/icons/icons/font_awesome/solid/database.png"
+    },
+    {
+      "name": "reportsBtn",
+      "icon": "Qss/icons/icons/material_design/report.png"
+    },
+    {
+      "name": "graphsBtn",
+      "icon": "Qss/icons/icons/font_awesome/solid/chart-pie.png"
+    },
+    {
+      "name": "settingsBtn",
+      "icon": "Qss/icons/icons/material_design/settings.png"
+    },
+    {
+      "name": "informationBtn",
+      "icon": "Qss/icons/icons/material_design/perm_device_information.png"
+    },
+    {
+      "name": "helpBtn",
+      "icon": "Qss/icons/icons/material_design/help.png"
+    },
+    {
+      "name": "closeCenterMenuBtn",
+      "icon": "Qss/icons/icons/font_awesome/solid/circle-xmark.png"
+    },
+    {
+      "name": "notificationBtn",
+      "icon": "Qss/icons/icons/material_design/notifications.png"
+    },
+    {
+      "name": "moreBtn",
+      "icon": "Qss/icons/icons/material_design/more_horiz.png"
+    },
+    {
+      "name": "profileBtn",
+      "icon": "Qss/icons/icons/font_awesome/solid/circle-user.png"
+    },
+    {
+      "name": "minimizeBtn",
+      "icon": "Qss/icons/icons/feather/minus.png"
+    },
+    {
+      "name": "restoreBtn",
+      "icon": "Qss/icons/icons/feather/square.png"
+    },
+    {
+      "name": "closeBtn",
+      "icon": "Qss/icons/icons/feather/window_close.png"
+    },
+    {
+      "name": "lightBulbOnBtn",
+      "icon": "Qss/icons/icons/material_design/radio_button_unchecked.png"
+    },
+    {
+      "name": "lightBulbOffBtn",
+      "icon": "Qss/icons/icons/material_design/check_circle.png"
+    },
+    {
+      "name": "fanOnBtn",
+      "icon": "Qss/icons/icons/material_design/radio_button_unchecked.png"
+    },
+    {
+      "name": "fanOffBtn",
+      "icon": "Qss/icons/icons/material_design/check_circle.png"
+    },
+    {
+      "name": "tvOnBtn",
+      "icon": "Qss/icons/icons/material_design/radio_button_unchecked.png"
+    },
+    {
+      "name": "tvOffBtn",
+      "icon": "Qss/icons/icons/material_design/check_circle.png"
+    },
+    {
+      "name": "acOnBtn",
+      "icon": "Qss/icons/icons/material_design/radio_button_unchecked.png"
+    },
+    {
+      "name": "acOffBtn",
+      "icon": "Qss/icons/icons/material_design/check_circle.png"
+    },
+    {
+      "name": "closeRightMenuBtn",
+      "icon": "Qss/icons/icons/feather/x-circle.png"
+    }
+  ],
+  "QLabel": [
+    {
+      "name": "label_5",
+      "pixmap": "Qss/icons/icons/font_awesome/solid/earth-asia.png"
+    },
+    {
+      "name": "label_9",
+      "pixmap": "Qss/icons/icons/feather/search.png"
+    },
+    {
+      "name": "lightBulbIcon",
+      "pixmap": "Qss/icons/icons/material_design/flashlight_off.png"
+    },
+    {
+      "name": "fanIcon",
+      "pixmap": "Qss/icons/icons/material_design/mode_fan_off.png"
+    },
+    {
+      "name": "tvIcon",
+      "pixmap": "Qss/icons/icons/material_design/tv_off.png"
+    },
+    {
+      "name": "acIcon",
+      "pixmap": "Qss/icons/icons/material_design/subtitles_off.png"
+    }
+  ]
+}
